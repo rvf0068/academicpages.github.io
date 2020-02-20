@@ -11,30 +11,28 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Mathematics, UNAM, 1991
+* M.S. in Mathematics, UNAM, 1993
+* Ph.D in Mathematics, University of Minnesota, 1999
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 1999: Investigador Asociado
+  * Instituto de Matemáticas, UNAM
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2006: Profesor Investigador
+  * CIMA, UAEH
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Combinatorics 
+  * graph theory
+  * the clique graph operator
+* Software
+  * \LaTeX
+  * Python
+  * Emacs
+  * Git
 
 Publications
 ======
@@ -48,12 +46,9 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<!-- Teaching -->
+<!-- ====== -->
+<!--   <ul>{% for post in site.teaching %} -->
+<!--     {% include archive-single-cv.html %} -->
+<!--   {% endfor %}</ul> -->
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
